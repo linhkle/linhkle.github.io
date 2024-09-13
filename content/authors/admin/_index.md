@@ -36,6 +36,8 @@ profiles:
     url: https://github.com/linhkle
   - icon: brands/linkedin
     url: https://www.linkedin.com/linhkle1
+  - icon: academicons/CV
+    url: uploads/resume.pdf
   #- icon: academicons/google-scholar
   #  url: https://scholar.google.com/
   #- icon: academicons/orcid
@@ -162,4 +164,8 @@ education:
 
 ## About Me
 
-I am a PhD candidate at the Department of Political Science and the School of Global Policy and Strategy, University of California San Diego. My research examines the dynamics of contemporary state building in ethnically diverse peripheral regions. I explore the extent to which government policies like internal migration and minority language education can facilitate the incorporation of ethnic minorities into the state, and when they might induce backlash. I use a variety of empirical methods leveraging geospatial, text, and archival data, focusing on Vietnam and Southeast Asia.
+Welcome!
+
+I am a PhD candidate at the Department of Political Science and the School of Global Policy and Strategy, University of California San Diego. 
+
+My research examines the dynamics of contemporary state building in ethnically diverse peripheral regions. I explore the extent to which government policies like internal migration and minority language education can facilitate the incorporation of ethnic minorities into the state, and when they might induce backlash. I use a variety of empirical methods leveraging geospatial, text, and archival data, focusing on Vietnam and Southeast Asia.
