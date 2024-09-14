@@ -7,6 +7,8 @@ view: compact
 
 # Optional header image (relative to `static/media/` folder).
 banner:
-  caption: ''
-  image: ''
+  caption: 'Sapa, Vietnam'
+  image: 'sapa.JPG'
 ---
+
+
