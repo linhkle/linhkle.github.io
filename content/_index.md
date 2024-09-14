@@ -6,7 +6,11 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "3rem"
+
+banner:
+  caption: 'Sapa, Vietnam'
+  image: 'sapa.JPG'
 
 sections:
   - block: resume-biography-3
@@ -20,8 +24,8 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
-      background:
-        color: white
+      # background:
+      #   color: system
         # image:
         #   # Add your image background to `assets/media/`.
         #   filename: stacked-peaks.svg
