@@ -7,8 +7,8 @@ first_name: Khanh Linh
 last_name: Le
 
 # Status emoji
-status:
-  icon: 🪷
+# status:
+#   icon: 🪷
 
 # Is this the primary user of the site?
 superuser: true
@@ -43,8 +43,8 @@ profiles:
 
 interests:
   - State Building
+  - Ethnic Politics
   - Southeast Asia
-  - Geospatial & quasi-experimental methods
 
 education:
   - area: PhD in Political Science & International Affairs, 2026 (expected)
