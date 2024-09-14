@@ -9,15 +9,24 @@ design:
 
 # Page sections
 sections:
-  - block: collection
+  - block: markdown
     content:
-      title: Teaching
-      text: Here are a selection of courses I have TA'd for.
-      filters:
-        folders:
-          - teaching
+      title: 'Teaching'
+      subtitle: 'Courses I have served as teaching assistants for'
+      text: |-
+        **Undergraduate level**
+
+        Political Inquiry (Intro to causal inference & hypothesis testing), Fall 2023, Summer 2024
+        
+        Politics of Human Rights, Spring 2023
+
+        Politics of Multiculturalism, Spring 2023
+
+        Political Economy of Development, Fall 2021
+
+        **Graduate (MA) level**
+
+        Policy-Making Processes, Winter 2023
     design:
-      view: article-grid
-      fill_image: false
-      columns: 1
+      columns: '1'
 ---

@@ -8,9 +8,19 @@ design:
   # Default section spacing
   spacing: "3rem"
 
-banner:
+# Cover image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Otherwise, specify the `filename` option to load an image from your `assets/media/` folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  placement: 1
   caption: 'Sapa, Vietnam'
-  image: 'sapa.JPG'
+  focal_point: 'Center'
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+  filename: sapa.JPG 
 
 sections:
   - block: resume-biography-3
@@ -24,8 +34,8 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
-      # background:
-      #   color: system
+      background:
+        color: black
         # image:
         #   # Add your image background to `assets/media/`.
         #   filename: stacked-peaks.svg
