@@ -7,14 +7,15 @@ main:
   # - name: Bio
   #   url: /
   #   weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
+  - name: Research
+    url: research/
+    weight: 10
+  - name: Teaching
+    url: teaching/
+    weight: 20
   - name: Projects
     url: projects/
     weight: 30
-  - name: Teaching
-    url: teaching/
-    weight: 40
   - name: CV
     url: /uploads/resume.pdf
+    weight: 40
