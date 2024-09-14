@@ -6,7 +6,10 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  theme_day: coffee
+  theme_night: coffee
+  font: minimal
+  font_size: m
 
 # SEO
 marketing:
